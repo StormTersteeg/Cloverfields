@@ -10,7 +10,7 @@ Change your console font to a rasterfont that preferably has a 1:1 fontsize:<br>
 ## Features
 Currently, the game has a small set of features that allow the player to place custom objects that consist of the following properties:
 - Name (displayed on the interaction list)
-- Character (displayed on the map)
+- Character (letter that's displayed on the map)
 - Foreground color (text color)
 - Background color (color displayed behind the text)
 
