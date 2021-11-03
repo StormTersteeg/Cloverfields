@@ -149,7 +149,7 @@ namespace Cloverfields
         public void UndrawText(int height)
         {
             Console.SetCursorPosition(MapDisplacement+MapSize+5, MapDisplacement+height);
-            Console.Write("                                                        ");
+            Console.Write("                                                                   ");
         }
 
         public void DrawCoordinates(int height)

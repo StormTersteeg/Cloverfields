@@ -10,9 +10,8 @@ namespace Cloverfields
             try
             {
                 Console.WindowHeight = 72;
-                Console.WindowWidth = 120;
+                Console.WindowWidth = 123;
             } catch (Exception) {}
-
 
             World world = new World(){Objects=new List<GameObject>(){}};
             Controller.Initialize(world);
